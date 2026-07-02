@@ -61,7 +61,7 @@ grenze = 255
 radio.setGroup(99)
 rad_links_korrektur = 1
 let feinheit = 0.5
-let schritte = 6
+let schritte = 12
 init()
 basic.forever(function () {
     berechne_rad_werte()
